@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.market_place_demo">
+    package="com.example.register_local_data">
    <application
-        android:label="market_place_demo"
+        android:label="register_local_data"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
